@@ -1,0 +1,6 @@
+true_class,predicted_as,rate
+airplane,ship,0.211
+deer,frog,0.211
+truck,automobile,0.194
+bird,frog,0.192
+cat,dog,0.184
